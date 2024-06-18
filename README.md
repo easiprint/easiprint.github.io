@@ -1,14 +1,18 @@
 # easiprint.github.io
 
 Simple and practical powerpoint printing tool
+
 简单实用的PPT多合一打印工具，基于VBA开发设计。为您提供密铺无缝隙、版面整洁的PPT打印辅助服务！
 
 Ready-to-use Tiny and mighty
+
 简单易用 功能强大 下载即用！
 
 English version: https://slideprint.com [Compatitable only with English Microsoft office]
 
 中文版本：https://easiprint.github.io [仅支持简体中文版本office]
+
+
 
 “Saving Paper, Saving the Planet"
 
